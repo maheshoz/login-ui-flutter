@@ -1,6 +1,9 @@
 # login_ui_flutter
 
 A new Flutter project.
+THis is a code along  from this [youtube video](https://www.youtube.com/watch?v=byvpx5S-mNk)
+
+![Screenshot](screenshot.png)
 
 ## Getting Started
 
