@@ -3,11 +3,12 @@
 A new Flutter project.
 THis is a code along  from this [youtube video](https://www.youtube.com/watch?v=byvpx5S-mNk)
 
-
- <p align="center">
-  <img src="screenshot.png" width="350" title="login screenshot" alt="screenshot of login ui>
+<p align="center">
+  <img src="screenshot.png" width="350" title="login screenshot" alt="screenshot of login ui">
 </p>
-
+                                                                      
+----
+                                                                      
 ## Getting Started
 
 This project is a starting point for a Flutter application.
